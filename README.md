@@ -1,4 +1,4 @@
-# Movie_Review_Sentiment_Analysis
+# Movie Review Sentiment Analysis
 Built a data-driven movie review platform by processing a large dataset of positive and negative reviews to structure and categorize user feedback.
 This project uses Machine Learning to analyse movie reviews and classify them as positive or negative based on their text.
 
